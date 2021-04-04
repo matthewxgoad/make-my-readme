@@ -1,3 +1,6 @@
+# Local indexing
+*.DS_Store/
+
 # Logs
 logs
 *.log
