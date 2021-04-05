@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matthewxgoad/make-my-readme/issues"
   },
-  "homepage": "https://github.com/matthewxgoad/make-my-readme#readme"
+  "homepage": "https://github.com/matthewxgoad/make-my-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
