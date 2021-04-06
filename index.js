@@ -1,13 +1,7 @@
-console.log("Heloo");
-
 // Global Variables
 const inquirer = require('inquirer');
 const fs = require('fs');
-// const util = require('util');
 
-// const writeFileAsync = util.promisify(fs.writeFile);
-
-// const setText = ({ githubName, email, projectTitle, description, installInstructions, usageInfo, contribGuide, testInstructions, license }) => {
 const makeMarkdown = (answers) =>
 
 `# ${answers.projectTitle}
