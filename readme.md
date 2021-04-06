@@ -21,7 +21,7 @@ Download from GitHub; run in the console.
 
 Answer the command line prompts to generate a formatted markdown file, fast and simple.
 
-[Video walkthrough](./make-my-readme-video.mov)
+[Video walkthrough](https://youtu.be/vvOuJT9NGYI)
 
 ## License
 
